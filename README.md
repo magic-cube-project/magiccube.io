@@ -1,0 +1,2 @@
+# magiccube.io
+official network
